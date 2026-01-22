@@ -7,9 +7,8 @@
 
 
 ## 🛠️ Tech Stack
-![Java]([https://img.shields.com/badge/Java-007396?style=flat&logo=java&logoColor=white](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/500px-Java_programming_language_logo.svg.png))
-![Spring Boot](https://img.shields.com/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.com/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java]
+![Spring Boot]
+![MySQL]
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
