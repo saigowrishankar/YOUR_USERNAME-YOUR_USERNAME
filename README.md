@@ -1,12 +1,10 @@
 <div align="center">
   <img src="https://via.placeholder.com/150" width="150px" alt="Profile Pic"/>
-  <h1>Hi 👋, I'm [Your Name]</h1>
-  <p>Java Developer | DSA Enthusiast | Open Source Lover</p>
+  <h1>Hi 👋, I'm Sai Gowri Shankar</h1>
+  <p>Java Developer | DSA Enthusiast r</p>
 </div>
 
-## 🌟 Featured Projects
-[![Student Management System](https://img.shields.io/badge/Project-Student%20Management%20System-blue)](https://github.com/YOUR_USERNAME/student-management)
-[![DSA Practice](https://img.shields.io/badge/Project-DSA%20Solutions-green)](https://github.com/YOUR_USERNAME/dsa-solutions)
+
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.com/badge/Java-007396?style=flat&logo=java&logoColor=white)
