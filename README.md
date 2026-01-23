@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <img src="www.linkedin.com/in/sai-gowri-shankar-mantrala](https://www.linkedin.com/in/sai-gowri-shankar-mantrala/"  />
+  <img src="www.linkedin.com/in/sai-gowri-shankar-mantrala](https://www.linkedin.com/in/sai-gowri-shankar-mantrala/"  /img>
 </div>
 
 
